@@ -4,5 +4,4 @@
 
      1. generate char,
      2. match word with list, 
-     3. randomly select from generated words, form poem. 
-     
+     3. RING FUCKING BELL WHENEVER IT MATCHES HOPEFULLY IT WILL BEEP LIKE NUTS.
